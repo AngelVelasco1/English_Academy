@@ -7,7 +7,7 @@
   --medium_blue: #00487e;
   --light_red: #fc4680;
   --dark_yellow: #ffc57d;
-  --light_yellow: #ffffcc;
+  --light_yellow: #ffffc1;
   --hightlight: #ff6e9e;
   /*? Fuentes */
   --textFont: 'Barlow', sans-serif;
@@ -61,8 +61,8 @@ thead th {
 
 tr > td {
   color: var(--white);
-  margin: 15px;
-  padding: 15px;
+  margin: 20px;
+  padding: 20px;
 }
 /*! Botones  */
 .main_button {
@@ -520,6 +520,24 @@ tr > td {
   margin: 0 auto;
   object-fit: cover;
 }
+/** Gallery Open - Responsive */
+@media screen and (max-width: 900px) {
+  .description-details img {
+      width: 600px;
+  }
+  
+}
+@media screen and (max-width: 750px) {
+  .description-details img {
+    width: 500px;
+}
+}
+@media screen and (max-width: 630px) {
+  .description-details img {
+    width: 450px;
+}
+}
+
 /** Footer */
 .footer_content {
   color: var(--white);

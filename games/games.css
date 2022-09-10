@@ -285,12 +285,20 @@ html {
   margin-block-start: 24px;
   border-radius: 12px;
 }
-/* Games Responsive */
+/*? Games Responsive */
 @media (max-width: 978px) {
   .games_gallery:first-of-type {
     margin-block-start: 500px;
+  }    
+}
+@media (max-width: 800px) {
+  .game_section {
+    flex-direction: column;
   }
-
+  
+  .img_game {
+    max-block-size: 240px;
+  }
 }
 /** Footer */
 .footer_content {
