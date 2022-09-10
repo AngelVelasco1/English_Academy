@@ -133,6 +133,7 @@ html {
   display: inline-block;
   text-align: center;
   font-family: var(--boldFont);
+  cursor:pointer;
 }
 /*! Botones hover */
 .main_button:hover {
