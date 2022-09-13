@@ -17,7 +17,7 @@
   --titulo2: bold 34px/40px var(--secondFont);
   --titulo3: bold 22px/38px var(--secondFont);
   --titulo4: bold 17px/18px var(--secondFont);
-  --parrafo1: normal 17px/28px var(--textFont);
+  --parrafo1: normal 18px/28px var(--textFont);
   --parrafo2: normal 16px/28px var(--secondFont);
   --form_button: bold 16px/22px var(--boldFont)
 } 
@@ -278,7 +278,7 @@ tr > td {
 .menu-mobile-close {
   display: none;
 }
-@media (max-width: 768px) {
+@media (max-width: 846px) {
   #header {
     display: none;
   }
@@ -367,7 +367,8 @@ tr > td {
   margin: 0 auto;
 }
 .intro-topics h2 {
-  font: var(--titulo2)
+  font: var(--titulo2);
+  font-size: 2.6rem;
 }
 .intro-topics p {
   max-inline-size: 764px;
@@ -542,6 +543,7 @@ tr > td {
 .footer_content {
   color: var(--white);
   text-align: center;
+  font: var(--parrafo1);
 }
 .footer_social {
   display: flex;

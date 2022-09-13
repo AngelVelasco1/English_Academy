@@ -133,7 +133,7 @@ html {
   display: inline-block;
   text-align: center;
   font-family: var(--boldFont);
-  cursor:pointer;
+  cursor: pointer;
 }
 /*! Botones hover */
 .main_button:hover {
@@ -264,7 +264,7 @@ html {
 .menu-mobile-close {
   display: none;
 }
-@media (max-width: 768px) {
+@media (max-width: 846px) {
   #header {
     display: none;
   }
