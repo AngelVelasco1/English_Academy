@@ -1,0 +1,139 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>Test Numbers</title>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.all.min.js"></script>
+</head>
+
+<body>
+  <style>
+			@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400&display=swap');
+			@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+			@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+    :root {
+  /*? Colores */
+  --gradient_background: radial-gradient(45.05% 20% at 98% 5%, #3a09ffc6 0%, rgba(255, 255, 255, 0) 80%), linear-gradient(150deg, #76f3ff 5%, #3232fff5 95%);
+  --white: #fff;
+  --black: #000;
+  --dark_blue: #002023;
+  --medium_blue: #0707b7d6;
+  --light_red: #fc4680;
+  --dark_yellow: #ffc57d;
+  --light_yellow: #ffffcc;
+  --hightlight: #ff6e9e;
+  /*? Fuentes */
+  --textFont: 'Barlow', sans-serif;
+  --secondFont: 'Montserrat', sans-serif;
+  --boldFont: 'Poppins', sans-serif;
+  --titulo1: bold 84px/103.70px bvar(--boldFont);
+  --titulo2: bold 34px/36px var(--secondFont);
+  --titulo3: bold 24px/8px var(--secondFont);
+  --titulo4: bold 20px/24px var(--boldFont);
+  --parrafo1: normal 18px/28px var(--textFont);
+  --parrafo2: normal 16px/28px var(--secondFont);
+  --form_button: bold 16px/22px var(--boldFont)
+} 
+    * {
+      transition: all 0.3s;
+    }
+
+    body {
+      background: var(--gradient_background);
+      min-block-size: 100vh;
+      padding: 0;
+      margin: 0;
+      text-align: center;
+      font: var(--titulo4);
+    }
+
+    .contenedor {
+      width: 98vw;
+      height: 97vh;
+      display: inline-flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .encabezado {
+      position: relative;
+      background: var(--white);
+      min-width: 300px;
+      width: 70%;
+      max-width: 700px;
+      padding: 5px;
+      box-shadow: -10px -10px 0 0 var(--dark_blue);
+      border-radius: 4px;
+
+    }
+
+    .categoria {
+      text-align: left;
+      font: var(--parrafo2);
+    }
+
+    .pregunta {
+      padding: 15px;
+      font: var(--titulo4);
+      
+    }
+
+    .imagen {
+      object-fit: contain;
+      height: 0px;
+      width: 0px;
+    }
+
+    .btn {
+      font: var(--parrafo1);
+      max-width: 500px;
+      background: white;
+      width: 65%;
+      padding: 10px;
+      margin: 5px;
+      cursor: pointer;
+      border-radius: 4px;
+
+      
+    }
+    #btn1 {
+      margin-block-start: 20px;
+
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+    }
+    
+    .numero{
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font: var(--parrafo2)
+    }
+    
+    .puntaje{
+      padding:10px;
+      color:white;
+      font: var(--form_button)
+    }
+  </style>
+
+  <div class="contenedor">
+    <div class="puntaje" id="puntaje"></div>
+    <div class="encabezado">
+      <div class="categoria" id="categoria">
+      </div>
+      <div class="numero" id="numero"></div>
+      <div class="pregunta" id="pregunta">
+      </div>
+      <img src="#" class="imagen" id="imagen">
+    </div>
+    <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+    <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+    <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+    <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+    
+    <script src="index_3.js"></script>
+  </div>
+
+</body></html>

@@ -1,0 +1,52 @@
+[
+  {
+    "categoria": "Alphabet",
+      "pregunta": "¿Como se pronuncia la vocal a?",
+      "respuesta": " /ei/",
+      "incorrecta1": "/ai/",
+      "incorrecta2": "/iu/",
+      "incorrecta3": "/ou/"
+      
+  },
+  {
+    "categoria": "Alphabet",
+    "pregunta": "¿Como se pronuncia la letra z?",
+    "respuesta": " /zi/",
+    "incorrecta1": "/es/",
+    "incorrecta2": "/ti/",
+    "incorrecta3": "/vi/"
+  
+  },
+  {
+    "categoria": "Alphabet",
+    "pregunta": "¿Que letra se pronuncia de esta forma: /dabliu/?",
+    "respuesta": "w",
+    "incorrecta1": "u",
+    "incorrecta2": "x",
+    "incorrecta3": "y"
+  },
+  {
+    "categoria": "Alphabet",
+    "pregunta": "¿Como se deletrea cat?",
+    "respuesta": "/ci-ei-ti/ ",
+    "incorrecta1": "/es-ei-ti/",
+    "incorrecta2": "/ei-ti-ci/",
+    "incorrecta3": "/zi-ei-ti/"
+  },
+  {
+    "categoria": "Alphabet",
+    "pregunta": "¿Que palabra se deletrea de esta forma: /di-ou-gi/?",
+    "respuesta": "dog",
+    "incorrecta1": "day",
+    "incorrecta2": "can",
+    "incorrecta3": "cat"
+  },
+  {
+    "categoria": "Alphabet",
+    "pregunta": "¿Que palabra se deletrea de esta forma: /ou-en-i/?",
+    "respuesta": "one",
+    "incorrecta1": "two",
+    "incorrecta2": "mom",
+    "incorrecta3": "yes"
+  }
+]

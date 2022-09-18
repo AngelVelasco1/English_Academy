@@ -1,0 +1,52 @@
+[
+  {
+    "categoria": "Numbers",
+      "pregunta": "¿Como se escribe?",
+      "respuesta": "One Hundred",
+      "incorrecta1": "One Thousand",
+      "incorrecta2": "Ten",
+      "incorrecta3": "Thirty",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/7192/7192806.png",
+      "objectFit": "contain"
+
+      
+  },
+  {
+    "categoria": "Numbers",
+      "pregunta": "¿Como se escribe?",
+      "respuesta": "Fifty",
+      "incorrecta1": "Five",
+      "incorrecta2": "Fiveteen",
+      "incorrecta3": "Twenty",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/89/89082.png",
+      "objectFit": "contain"
+
+  
+  },
+  {
+    "categoria": "Numbers",
+    "pregunta": "¿Como se escribe?",
+    "respuesta": "Twenty One",
+    "incorrecta1": "Five",
+    "incorrecta2": "Twenty",
+    "incorrecta3": "Twenty Two",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/6913/6913139.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Numbers",
+    "pregunta": "¿A que numero equivale ninety?",
+    "respuesta": "90",
+    "incorrecta1": "19",
+    "incorrecta2": "9",
+    "incorrecta3": "11"
+  },
+  {
+    "categoria": "Numbers",
+    "pregunta": "¿A que numero equivale sixteen?",
+    "respuesta": "16",
+    "incorrecta1": "6",
+    "incorrecta2": "60",
+    "incorrecta3": "26"
+  }
+]

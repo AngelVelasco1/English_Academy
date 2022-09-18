@@ -1,0 +1,52 @@
+[
+  {
+    "categoria": "Profesions",
+      "pregunta": "¿Que Profesion es?",
+      "respuesta": "Fireman",
+      "incorrecta1": "Doctor",
+      "incorrecta2": "Chef",
+      "incorrecta3": "Policeman",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/950/950006.png",
+      "objectFit": "contain"
+
+      
+  },
+  {
+    "categoria": "Professions",
+      "pregunta": "¿Que Profesion es?",
+      "respuesta": "Policeman",
+      "incorrecta1": "Baker",
+      "incorrecta2": "Carpenter",
+      "incorrecta3": "Farmer",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/3074/3074453.png",
+      "objectFit": "contain"
+
+  
+  },
+  {
+    "categoria": "Professions",
+    "pregunta": "¿Que Profesion es?",
+    "respuesta": "Doctor",
+    "incorrecta1": "Baker",
+    "incorrecta2": "Carpenter",
+    "incorrecta3": "Nurse",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/921/921059.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Professions",
+    "pregunta": "¿Que Profesion es Engineer?",
+    "respuesta": "Ingeniero/a",
+    "incorrecta1": "Medico/a",
+    "incorrecta2": "Periodista",
+    "incorrecta3": "Policia"
+  },
+  {
+    "categoria": "Professions",
+    "pregunta": "¿Que Profesion es Farmer?",
+    "respuesta": "Granjero/a",
+    "incorrecta1": "Bombero/a",
+    "incorrecta2": "Policia",
+    "incorrecta3": "Panadero/a"
+  }
+]
