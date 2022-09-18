@@ -485,15 +485,14 @@ tr > td {
 #details-container .nav-buttons {
   display: flex;
   justify-content: flex-end;
-  margin-block-start: 4rem;
-  margin-block-end: -2.5rem;
+  margin-inline-end: 100px;
+  margin-block-start: 60px;
 }
-#details-container .nav-buttons a {
+#details-container .nav-buttons .close a {
   text-decoration: none;
   color: var(--white);
-}
-.nav-buttons .move-buttons a:nth-child(2){
-  margin-inline-start: 4rem;
+  position: fixed
+
 }
 #details-container .items-details .item .main-image-details img {
   width: 30vw;

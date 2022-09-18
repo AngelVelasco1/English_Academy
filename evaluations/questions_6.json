@@ -1,0 +1,65 @@
+[
+  {
+    "categoria": "Nationalities",
+      "pregunta": "¿Que nacionalidad es?",
+      "respuesta": "English",
+      "incorrecta1": "American",
+      "incorrecta2": "British",
+      "incorrecta3": "Argentinian",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/555/555527.png",
+      "objectFit": "contain"
+  },
+  {
+    "categoria": "Nationalities",
+    "pregunta": "¿Que nacionalidad es?",
+    "respuesta": "Brazilian",
+    "incorrecta1": "American",
+    "incorrecta2": "Chilean",
+    "incorrecta3": "Colombian",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/4087/4087482.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Nationalities",
+    "pregunta": "¿Que nacionalidad es?",
+    "respuesta": "British",
+    "incorrecta1": "American",
+    "incorrecta2": "French",
+    "incorrecta3": "English",
+    "imagen": "https://cdn-icons-png.flaticon.com/512/1313/1313369.png",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Nationalities",
+    "pregunta": "¿A que pais se refiere el gentilicio (German)?",
+    "respuesta": "Alemania",
+    "incorrecta1": "Grecia",
+    "incorrecta2": "Portugal",
+    "incorrecta3": "Italia"
+  },
+  {
+    "categoria": "Nationalities",
+    "pregunta": "¿A que pais se refiere el gentilicio (American)?",
+    "respuesta": "Estados Unidos",
+    "incorrecta1": "Mexico",
+    "incorrecta2": "Canada",
+    "incorrecta3": "Reino Unido"
+  },
+  {
+    "categoria": "Nationalities",
+    "pregunta": "If you talk with a greek, where is he from?",
+    "respuesta": "Greece",
+    "incorrecta1": "Germany",
+    "incorrecta2": "Guyana",
+    "incorrecta3": "Guinea"
+  },
+  {
+    "categoria": "Nationalities",
+    "pregunta": "If you talk with a peruvian, where is he from?",
+    "respuesta": "Peru",
+    "incorrecta1": "Poland",
+    "incorrecta2": "Paraguay",
+    "incorrecta3": "Panama"
+  }
+
+]

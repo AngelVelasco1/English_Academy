@@ -1,0 +1,67 @@
+[
+  {
+    "categoria": "Verb to be",
+      "pregunta": "¿Cual es el significado de 'to be'?",
+      "respuesta": "Ser, estar o haber",
+      "incorrecta1": "Trabajar, ejercer o cumplir",
+      "incorrecta2": "Nacer, crecer o vivir",
+      "incorrecta3": "Siendo, estando o habiendo"
+  },
+  {
+    "categoria": "Verb to be",
+      "pregunta": "El verbo (are) es usado por los pronombres:",
+      "respuesta": "You, We y They",
+      "incorrecta1": "I, You y We",
+      "incorrecta2": "He, She y It",
+      "incorrecta3": "You, He y She"
+  },
+  {
+    "categoria": "Verb to be",
+    "pregunta": "El verbo (is) es usado por los pronombres:",
+    "respuesta": "He, She y It",
+    "incorrecta1": "I, You y He",
+    "incorrecta2": "You, We y They",
+    "incorrecta3": "I y you"
+  },
+  {
+    "categoria": "Verb to be",
+    "pregunta": "They . . . . . studying right now",
+    "respuesta": "are",
+    "incorrecta1": "is",
+    "incorrecta2": "am",
+    "incorrecta3": "do"
+  },
+  {
+    "categoria": "Verb to be",
+    "pregunta": ". . . . . he a policeman?",
+    "respuesta": "is",
+    "incorrecta1": "are",
+    "incorrecta2": "when",
+    "incorrecta3": "what"
+  },
+  {
+    "categoria": "Verb to be",
+    "pregunta": "I . . . . a bad person",
+    "respuesta": "am not",
+    "incorrecta1": "is not",
+    "incorrecta2": "are not",
+    "incorrecta3": "do not"
+  },
+  {
+    "categoria": "Verb to be",
+    "pregunta": "¿Cuál es la estructura del presente simple en su forma interrogativa?",
+    "respuesta": "Auxiliar do/does + sujeto + verbo + complemento",
+    "incorrecta1": "Auxiliar do + sujeto + verbo + complemento",
+    "incorrecta2": "Auxiliar do/does + sujeto + verbo en pasado + complemento",
+    "incorrecta3": "Sujeto + auxiliar do/does + verbo + complemento"
+  },
+  {
+    "categoria": "Verb to be",
+    "pregunta": "(Where are you from?) traduce en:",
+    "respuesta": "¿De dónde eres?",
+    "incorrecta1": "¿Donde vives?",
+    "incorrecta2": "¿Donde estas?",
+    "incorrecta3": "Ninguna de las anteriores"
+  }
+
+]

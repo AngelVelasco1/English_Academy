@@ -414,3 +414,15 @@
 
   }
 }
+/** Personalizacion de Barra de Navegacion */
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 0px;
+background: var(--white);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 80px;
+  background: var(--dark_blue);
+}

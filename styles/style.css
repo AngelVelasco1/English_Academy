@@ -142,7 +142,6 @@ html {
   color: var(--white);
   border: 3px solid white;
   padding-block-end: 24px;
-  
 }
 .second_button:hover {
   background-color: var(--dark_blue);
@@ -270,7 +269,6 @@ html {
   }
   .menu-mobile {
     display: block;
-
   }
 }
 /** Portada Principal (cover) */

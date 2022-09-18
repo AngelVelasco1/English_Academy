@@ -1,0 +1,56 @@
+[
+  {
+    "categoria": "Verbs",
+      "pregunta": "El verbo que representa la imagen es",
+      "respuesta": "Speak",
+      "incorrecta1": "Cry",
+      "incorrecta2": "Run",
+      "incorrecta3": "Climb",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/4287/4287330.png",
+      "objectFit": "contain"
+  },
+  {
+    "categoria": "Verbs",
+      "pregunta": "El verbo que representa la imagen es",
+      "respuesta": "To work",
+      "incorrecta1": "To Cry",
+      "incorrecta2": "To find",
+      "incorrecta3": "To ask",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/3264/3264753.png",
+      "objectFit": "contain"
+  },
+  {
+    "categoria": "Verbs",
+      "pregunta": "El verbo que representa la imagen es",
+      "respuesta": "Eat",
+      "incorrecta1": "Drink",
+      "incorrecta2": "Tell",
+      "incorrecta3": "Like",
+      "imagen": "https://cdn-icons-png.flaticon.com/512/3097/3097921.png",
+      "objectFit": "contain"
+  },
+  {
+    "categoria": "Verbs",
+    "pregunta": "He . . . . . about Maria, but she isn´t in the house",
+    "respuesta": "Asks",
+    "incorrecta1": "Ask",
+    "incorrecta2": "Tell",
+    "incorrecta3": "Speak"
+  },
+  {
+    "categoria": "Verbs",
+    "pregunta": "We . . . . . play basket,because we are tired",
+    "respuesta": "Don´t",	
+    "incorrecta1": "Doesn´t",
+    "incorrecta2": "Didn´t",
+    "incorrecta3": "Do"
+  },
+  {
+    "categoria": "Verbs",
+    "pregunta": ". . . . . They go out with their friends?",
+    "respuesta": "Do",	
+    "incorrecta1": "Does",
+    "incorrecta2": "Did",
+    "incorrecta3": "Don´t"
+  }
+]
