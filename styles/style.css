@@ -281,6 +281,17 @@ html {
   margin: 0;
   color: var(--dark_blue);
 }
+#main-description span {
+  display: block;
+}
+#main-description .typed_effect {
+  color: var(--light_red);
+  display: block;
+
+  
+}
+
+
 #main-description p {
   text-align: justify;
   font: var(--parrafo1);
