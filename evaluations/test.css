@@ -120,6 +120,7 @@
   }
   #nav-menu ul a:hover{
     color: var(--dark_blue);
+    transform: scale(1.1, 1.1);
     font-weight: bold;
     text-decoration: underline;
   }
@@ -135,7 +136,6 @@
   /** Menu de Navegacion Mobile  */
   .menu-mobile {
     display: none;
-  
   }
   #hamburger-button svg{
     margin-inline-end: 1.1rem;
