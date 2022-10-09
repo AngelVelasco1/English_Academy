@@ -131,6 +131,7 @@ html {
 }
 #nav-menu ul a:hover{
   color: var(--dark_blue);
+  transform: scale(1.1, 1.1);
   font-weight: bold;
   text-decoration: underline;
 }
