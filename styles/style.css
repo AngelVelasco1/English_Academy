@@ -359,8 +359,8 @@ html {
 }
 @media screen and (max-width: 698px) {
   #main-image img{
-    inline-size: 360px;
-    block-size: 364px;
+    inline-size: 350px;
+    block-size: 346px;
   }
 }
 @media screen and (min-width: 1024px){
