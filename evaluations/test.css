@@ -120,7 +120,6 @@
   }
   #nav-menu ul a:hover{
     color: var(--dark_blue);
-    transform: scale(1.1, 1.1);
     font-weight: bold;
     text-decoration: underline;
   }
@@ -136,6 +135,7 @@
   /** Menu de Navegacion Mobile  */
   .menu-mobile {
     display: none;
+  
   }
   #hamburger-button svg{
     margin-inline-end: 1.1rem;
@@ -275,10 +275,14 @@
     max-inline-size: 475px;
   }
 }
-@media screen and (max-width: 698px) {
+@media screen and (max-width: 678px) {
   #main-image img{
-    inline-size: 350px;
-    block-size: 346px;
+    inline-size: 348px;
+    block-size: 342px;
+    margin-block-end: 130px;
+  }
+  #main-description h1 {
+    font-size: 78px;
   }
 }
 @media screen and (min-width: 1024px){
