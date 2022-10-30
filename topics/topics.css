@@ -349,8 +349,8 @@ tr > td {
 }
 @media screen and (max-width: 698px) {
   #main-image img{
-    inline-size: 410px;
-    block-size: 408px;
+    inline-size: 360px;
+    block-size: 364px;
   }
 }
 @media screen and (min-width: 1024px){
