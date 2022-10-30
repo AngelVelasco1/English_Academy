@@ -189,7 +189,7 @@ html {
   animation-duration: 1.6s;
   animation-timing-function: ease-in-out;
 }
-#nav-menu ul li a {
+#nav-menu ul a {
   font-family: var(--boldFont);
   font-size: 1.1rem;
   text-decoration: none;
@@ -197,9 +197,8 @@ html {
   color: var(--white);
   transition: all 0.7s;
 }
-#nav-menu ul li a:hover{
+#nav-menu ul a:hover{
   color: var(--dark_blue);
-  transform: scale(1.1, 1.1);
   font-weight: bold;
   text-decoration: underline;
 }
@@ -291,8 +290,6 @@ html {
 
   
 }
-
-
 #main-description p {
   text-align: justify;
   font: var(--parrafo1);
@@ -352,8 +349,8 @@ html {
     text-align: end;
   }
   #main-image img {
-    inline-size: 460px;
-    block-size: 464px;
+    inline-size: 440px;
+    block-size: 444px;
   }
   #main-description {
     order: 1;
@@ -362,14 +359,14 @@ html {
 }
 @media screen and (max-width: 698px) {
   #main-image img{
-    inline-size: 410px;
-    block-size: 408px;
+    inline-size: 370px;
+    block-size: 374px;
   }
 }
 @media screen and (min-width: 1024px){
   #main-image img{
-    inline-size: 440px;
-    block-size: 444px;
+    inline-size: 450px;
+    block-size: 454px;
   }
 }
 /** Resumen de Topics */
